@@ -1,0 +1,1 @@
+Simple footer 3. (calc)
